@@ -6,13 +6,13 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/11.0.0/firebase
 // Your Firebase configuration - REPLACE WITH YOUR OWN CONFIG
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDzI-hi8yLSnos2JcKgU8TRK17BNWAY8Fw",
-  authDomain: "gym-management-70b1d.firebaseapp.com",
-  projectId: "gym-management-70b1d",
-  storageBucket: "gym-management-70b1d.firebasestorage.app",
-  messagingSenderId: "257300380529",
-  appId: "1:257300380529:web:46f28fa01a24d7c61054d0",
-  measurementId: "G-KVKKCR965Q"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
